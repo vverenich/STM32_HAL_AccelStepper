@@ -33,7 +33,9 @@ https://github.com/vverenich/STM32_HAL_micros/tree/main
 
 #include <memory>
 
+// Replace it with the actual path to main.h
 #include "main.h"
+// Replace it with the actual path to AccelStepper.h
 #include "AccelStepper.h"
 
 
